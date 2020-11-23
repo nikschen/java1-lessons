@@ -3,7 +3,7 @@ package de.niklaswiemuth.tryjava;
 
 class MyFirstStartClass {
 
-    public static void main(String[] args) {
+    public static void not_main_anymore(String[] args) {
 
         for(int saidNumber=1;saidNumber<=100;saidNumber++)
         {
